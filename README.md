@@ -2,4 +2,4 @@
 Мой первый сайт
 
 
-[Урок 12] (https://yameb.github.io/lesson1/?# "Мой первый сайт")
+[Урок 12] (Yameb.github.io/lesson1/ "Мой первый сайт")
